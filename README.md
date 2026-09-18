@@ -21,5 +21,3 @@ A/B test analysis of a new onboarding flow rolled out to a random subset of new 
 pip install pandas scipy
 python3 analysis.py
 ```
-
-The required `experiment_results.csv` dataset is not included in the repository per the assignment submission rules.
